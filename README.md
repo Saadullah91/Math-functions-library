@@ -1,4 +1,4 @@
-#Math Operations Console Program
+# Math Operations Console Program
 This C++ console application allows users to perform various mathematical operations through a menu-driven interface. The program includes functions such as power calculation, cube root, square root, logarithm, absolute value, and trigonometric functions like sine, cosine, and tangent.
 
 Features
