@@ -15,13 +15,10 @@ Round Off: Round off a number to the nearest integer.
 How to Use
 Compile the Code: Use a C++ compiler to compile the code.
 
-bash
-Copy code
+
 g++ -o math_operations math_operations.cpp
 Run the Program: Execute the compiled file.
 
-bash
-Copy code
 ./math_operations
 Choose an Operation: The program will display a menu with different mathematical operations. Enter the number corresponding to the operation you want to perform.
 
